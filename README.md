@@ -9,5 +9,3 @@ Related materials:
 (3) How to Install and Use IPython: https://www.codecademy.com/articles/how-to-use-ipython  
 (4) Coding environment Google Colab: https://colab.research.google.com/notebooks/welcome.ipynb#  
 (5) GitHub tutorial: https://www.edureka.co/blog/how-to-use-github/  
-  
-Lesson 2:  
