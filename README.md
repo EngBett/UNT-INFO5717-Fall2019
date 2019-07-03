@@ -1,6 +1,11 @@
 # UNT-INFO5717-Fall2019
 This repository includes the source the examples in the textbooks and other codes that will be mentioned for the course
 
+  
+Lesson 2:  
+Main content:  
+
+
 Lesson 1:  
 Main content: Python Introduction (features, advantages and disadvantages, applications, demands, future, career opportunities, python for data science, python installation), Python tools (Jupyter notebooks, IPython, Google Colab, GitHub, Anaconda, Pycharm)  
 Related materials:  
