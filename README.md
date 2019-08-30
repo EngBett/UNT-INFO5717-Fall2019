@@ -3,7 +3,12 @@ This repository includes the source the examples in the textbooks and other code
 
   
 Lesson 2:  
-Main content:  
+Learning Objectives:
+(1) Describe basic concepts, including variables, expressions, statements, operators, and functions
+(2) Write Python statements to assign values to variables and perform calculation
+(3) Debug simple python programs
+(4) Write Python functions and use functions
+(5) Master string operations and use string functions to process texts
 
 
 Lesson 1:  
