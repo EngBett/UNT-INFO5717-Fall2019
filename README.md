@@ -1,6 +1,14 @@
 # UNT-INFO5717-Fall2019
 This repository includes the source the examples in the textbooks and other codes that will be mentioned for the course
 
+
+Lesson 3:  
+Learning Objectives:  
+(1)   
+(2)    
+(3)     
+(4)   
+(5)   
   
 Lesson 2:  
 Learning Objectives:  
