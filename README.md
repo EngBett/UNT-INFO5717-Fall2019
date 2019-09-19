@@ -7,7 +7,7 @@ Learning Objectives:
 
 (1) Create a Python module and use the objects defined in a module with the import statement  
 (2) Organize modules into packages and subpackages, control package initialization, and use packages   
-(3)     
+(3) Loops    
 (4)   
 (5)   
   
