@@ -5,11 +5,10 @@ This repository includes the source the examples in the textbooks and other code
 Lesson 3:  
 Learning Objectives:
 
-(1) Create a Python module and use the objects defined in a module with the import statement  
-(2) Organize modules into packages and subpackages, control package initialization, and use packages   
-(3) Loops    
-(4)   
-(5)   
+(1) Describe concepts such as conditional statements, recursion, chained conditional,  incremental development
+(2) Write python conditional and iterative statements 
+(3) Describe when and how to use conditional and iterative statements
+(4) Master python function definition and use  
   
 Lesson 2:  
 Learning Objectives:  
