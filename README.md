@@ -6,8 +6,11 @@ Lesson 3:
 Learning Objectives:
 
 (1) Describe concepts such as conditional statements, recursion, chained conditional,  incremental development
-(2) Write python conditional and iterative statements 
+
+(2) Write python conditional and iterative statements
+
 (3) Describe when and how to use conditional and iterative statements
+
 (4) Master python function definition and use  
   
 Lesson 2:  
