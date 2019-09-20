@@ -1,6 +1,12 @@
 # UNT-INFO5717-Fall2019
 This repository includes the source the examples in the textbooks and other codes that will be mentioned for the course
 
+Lesson 4:  
+Learning Objectives:  
+(1) Describe the major components of an entity-relationship model   
+(2) Create entity-relationship models based on user requirements or real-world information  
+(3) Describe major python modules and use them when needed in writing python programs   
+(4) Use files to store information, and process information stored in files     
 
 Lesson 3:  
 Learning Objectives:  
